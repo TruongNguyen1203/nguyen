@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nguyen/static/css/main.f855e6bc.css",
+    "main.js": "/nguyen/static/js/main.b05f8ef0.js",
+    "static/js/453.ed3810f9.chunk.js": "/nguyen/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/nguyen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nguyen/index.html",
+    "main.f855e6bc.css.map": "/nguyen/static/css/main.f855e6bc.css.map",
+    "main.b05f8ef0.js.map": "/nguyen/static/js/main.b05f8ef0.js.map",
+    "453.ed3810f9.chunk.js.map": "/nguyen/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b05f8ef0.js"
+  ]
+}
